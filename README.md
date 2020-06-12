@@ -1,5 +1,6 @@
 # Analysing_cars
 Analysing dataset of cars for university task
+Prediction mpg
 
 ## Requirements to run:
 - Jupyter notebook installed
